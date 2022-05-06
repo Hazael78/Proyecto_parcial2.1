@@ -1,0 +1,3 @@
+{"nombre":"Hazael Jeremai Cortes Galindo","correo":"haza.el78@hotmail.com","profesion":"Estudiante","telefono":15510382}
+{"nombre":"Martha Beatriz Galindo Perez","correo":"martha_g@hotmail.com","profesion":"Maestra","telefono":14185167}
+{"nombre":"Ricardo Cortes Martinez","correo":"ricardo_2@hotmail.com","profesion":"Maestro","telefono":27094647}
